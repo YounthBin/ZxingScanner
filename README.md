@@ -1,6 +1,6 @@
 # ZxingScanner
 
-
+[![](https://jitpack.io/v/YounthBin/ZxingScanner.svg)](https://jitpack.io/#YounthBin/ZxingScanner)
 扫描二维码功能
 
 ```

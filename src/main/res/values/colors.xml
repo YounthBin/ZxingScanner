@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 二维码扫描 -->
+    <color name="lib_result_view">#b0000000</color>
+    <color name="lib_viewfinder_mask">#60000000</color>
+    <color name="lib_possible_result_points">#c0ffff00</color>
+    <!-- 扫描结束界面 -->
+    <color name="lib_randomCode">#6D6D6D</color>
+    <color name="lib_barCode">#343434</color>
+</resources>

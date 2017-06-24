@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ZxingScanner</string>
+    <string name="scan_err">照相机故障！请检查你的照相机，或重新开机</string>
+    <string name="scan_text">将条码放入框内, 即可自动扫描</string>
+</resources>

@@ -13,7 +13,6 @@ import android.os.Bundle;
 import android.os.Handler;
 import android.os.SystemClock;
 import android.os.Vibrator;
-import android.support.annotation.LayoutRes;
 import android.view.OrientationEventListener;
 import android.view.Surface;
 import android.view.SurfaceHolder;
@@ -157,9 +156,7 @@ public abstract class MFCaptureActivity extends Activity implements Callback {
         }
     };
 
-    public abstract
-    @LayoutRes
-    int setLayoutResID();
+    public abstract int setLayoutResID();
 
     public abstract void onSetContentViewBefore();
 

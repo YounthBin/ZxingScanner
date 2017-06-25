@@ -2,8 +2,24 @@
 
 [![](https://jitpack.io/v/YounthBin/ZxingScanner.svg)](https://jitpack.io/#YounthBin/ZxingScanner)
 
-扫描二维码功能
+扫码功能
 
+引入库
+```
+	allprojects {
+		repositories {
+			...
+			maven { url 'https://jitpack.io' }
+		}
+	}
+    
+
+```
+```
+compile 'com.github.YounthBin:ZxingScanner:1.0.0'
+```
+targetSdkVersion 22
+```
 ```
 targetSdkVersion 22
 ```

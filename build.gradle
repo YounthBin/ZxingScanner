@@ -3,7 +3,7 @@ apply plugin: 'com.android.library'
 group='com.github.luckyBin'
 android {
     compileSdkVersion 22
-    buildToolsVersion "25.0.2"
+    buildToolsVersion "25.0.0"
 
     defaultConfig {
         minSdkVersion 15

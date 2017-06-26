@@ -1,4 +1,4 @@
-//apply plugin: 'com.android.library'
+apply plugin: 'com.android.library'
 apply plugin: 'com.github.dcendents.android-maven' // 添加这个
 
 group='com.github.luckyBin'
